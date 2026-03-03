@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.html
+
+# Raw scraped data
+data/Diadora_Competitive_Analysis.xlsx
+data/raw_*.xlsx
+*.log
+
+# ChromeDriver
+chromedriver
+chromedriver.exe
+.wdm/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
